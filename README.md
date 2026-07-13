@@ -48,6 +48,8 @@ WOOK'S CODING은 다르게 접근합니다.
 ## 🏆 서비스 목표 · 핵심 기능
 
 > 기능/비기능 요구사항·수용기준·유스케이스 상세: **[① 요구사항 정의서](llm_wiki/산출물/01_요구사항_정의서.md)**
+>
+> Canva 발표자료: **[발표자료](https://www.canva.com/design/DAHOwmnCRVI/56OrFvzxu6IFS_t97Q5RwA/edit)**
 
 | 기능 | 설명 |
 |---|---|
@@ -74,6 +76,7 @@ WOOK'S CODING은 다르게 접근합니다.
 | **미니튜터** | 학습 맥락 기반 멀티턴 대화 | 상태 + 최근 오답 + RAG 3중 개인화 |
 
 > 각 Agent는 `coding_state`를 **참고**하고, 학습 활동은 다시 `coding_state`를 **갱신**하는 피드백 루프를 이룹니다.
+> 
 > 상세: **[③ LLM 연동 웹 애플리케이션](llm_wiki/산출물/03_LLM연동_웹애플리케이션.md)**
 
 ---
