@@ -1,3 +1,23 @@
+# WOOK'S CODING — Personal Contribution
+
+> **개인 포트폴리오용 Fork**
+>
+> SK Networks Family AI Camp 4차 팀 프로젝트의 개인 Fork입니다.
+> 팀 프로젝트 전체 내용과 Git 이력은 유지하며, 아래에는 제가 직접 기여한 영역만 별도로 정리했습니다.
+
+## 👤 My Contribution — 양정현
+
+**Role: Django Web UI / Frontend Flow**
+
+- Django 기반 서비스 화면 UI 구성 및 통합
+- main merge 이후 깨진 UI 흐름 복구
+- 계정·인증·오답노트·문제풀이 화면 레이아웃 보정
+- 반응형 환경에서 overflow / clipping 문제 개선
+- 프로필 아바타 및 레벨 UI 복구·정리
+
+> 아래 팀 README의 AI Agent, RAG, Backend, 배포 등의 내용은 팀 전체 구현 범위입니다.
+
+---
 <div align="center">
 
 # 🧑‍💻 WOOK'S CODING
